@@ -18,6 +18,7 @@ This project demonstrates full-stack development skills, advanced **Next.js 14**
 👉 **View the design in Figma:**  
 [Open prototype 1](https://www.figma.com/proto/Ny6HqEo3oFM1DXkWustwAH/Untitled?node-id=1-5&t=KL9RvtvoJxrKZRSU-1)  
 [Open prototype 2](https://www.figma.com/proto/Ny6HqEo3oFM1DXkWustwAH/Untitled?node-id=49-5&t=KL9RvtvoJxrKZRSU-1)
+[Open prototype 3](https://www.figma.com/proto/Ny6HqEo3oFM1DXkWustwAH/Untitled?node-id=49-5&t=kIkprKrJMvc57gQQ-1)
 
 ---
 
